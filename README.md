@@ -12,5 +12,5 @@
 | [r00tk1t](https://r00tk1ts.github.io/)                | #C++ #Chrome #安全           |
 | [匠心博客](https://zhaomenghuan.js.org/)              | #Javascript #IOT             |
 | [CENALULU'S TECH BLOG](http://cenalulu.github.io/)    | #MySql #Linux #Python        |
-
+| [佰阅部落](https://baiyue.one/)                       | #搭建 #Python #Flask          |
 
